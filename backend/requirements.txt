@@ -1,0 +1,17 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-text-splitters
+langchain-experimental
+langchainhub
+openai-whisper
+murf
+requests
+language_tool_python
+language_data
+gradio
